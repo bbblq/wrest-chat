@@ -50,7 +50,7 @@ export const AiModels: Record<string, AiOptionData> = {
         endpoint: 'https://generativelanguage.googleapis.com',
         keystyle: '',
         models: {
-            'gemini-pro': 'gemini-pro',
+            'gemini-1.5-flash': 'gemini-1.5-flash',
         },
     },
     openai: {
