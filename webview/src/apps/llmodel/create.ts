@@ -19,7 +19,7 @@ export class LLModelCreateComponent {
         level: -1,
         family: '',
         provider: 'google',
-        model: 'gemini-1.5-flash',
+        model: 'gemini-1.5-flash-001',
         secret: '',
     };
 
